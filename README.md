@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm passionate about **Cybersecurity** and continuously wo
 
 - **👀 I’m interested in**: Cybersecurity, **API Testing**, **network security**, **REST APIs**, and securing digital infrastructures.  
 - **🌱 I’m currently learning**: Advanced **API Testing** techniques, network security protocols, and how to implement secure **REST APIs** while ensuring robust vulnerability management.  
-- **💻 I work as a**: Help Desk Level 2 Technician, with a focus on troubleshooting, securing systems, and resolving security vulnerabilities in IT environments.  
-- **🎓 I’m a Computer Science student**, specializing in cybersecurity, with a strong interest in secure software development, penetration testing, and secure networking practices.  
+- **💻 I work as a**: Help Desk Level 2 Technician, with a focus on troubleshooting and securing systems in IT environments.  
+- **🎓 I’m a Computer Science student** with a strong interest in secure software development, penetration testing, and secure networking practices.  
 
 <!---
 alessiobenvenuti/alessiobenvenuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
