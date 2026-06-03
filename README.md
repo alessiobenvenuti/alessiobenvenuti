@@ -1,9 +1,17 @@
-# 👋 Hi, I’m @alessiobenvenuti!
+# 👋 Hi, I’m Alessio Benvenuti (@alessiobenvenuti)
 
-Welcome to my GitHub! I'm passionate about **Cybersecurity** and continuously working to improve my skills in securing applications, networks, and systems. Here's a bit about me:  
+I'm a Computer Science student passionate about **AI Security**, **Linux**, and **Automation**. 
 
-- **💻 I work as a**: sysadmin, with a focus on troubleshooting and securing systems in IT environments.  
-- **🎓 I’m a Computer Science student** with a strong interest in secure software development, penetration testing, and secure networking practices.  
+🎯 **Current Focus**
+I dedicate my time to exploring Generative AI vulnerabilities. I actively research and document **Prompt Injection** techniques to test and bypass LLM guardrails. Check out my latest writeups on the Lakera Gandalf challenges in my pinned repositories!
+
+🎓 **Education**
+* **B.Sc. in Computer Science** (Final Year) - Focus on Systems Architecture, Networking, and Databases.
+
+🛠️ **Tech Interests & Stack**
+* **AI Security:** LLM Vulnerabilities, Prompt Injection, Guardrail testing
+* **OS & Scripting:** GNU/Linux (Debian/Ubuntu), Bash, PowerShell, Python
+* **Infrastructure:** Virtualization, Docker, Secure Networking
 
 <!---
 alessiobenvenuti/alessiobenvenuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
